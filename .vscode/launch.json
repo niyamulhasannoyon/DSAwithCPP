@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/niyamulhasan/Desktop/code/C++/DSAwithApnaCollege/Day-6 Binary/Day-7_Number.cpp",
+      "program": "/Users/niyamulhasan/Desktop/code/C++/DSAwithApnaCollege/Day-6 Binary/Day-7_Number.cpp/build/Debug/outDebug"
+    }
+  ]
+}
